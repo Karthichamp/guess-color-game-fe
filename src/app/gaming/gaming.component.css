@@ -1,0 +1,25 @@
+.container{
+    height: 500px;
+    width: 50%;
+    border: 1px solid #73AD21;
+    margin: auto;
+    padding: 8% 0% 0% 5%;
+}
+
+.btnDiv{
+    padding: 0% 10% 10% 0%;
+    width: 320px;
+}
+.btnColor{
+    margin-right: 75px;
+    margin-bottom: 20px;
+    width:90px;
+    height:30px;
+}
+
+.startNewGameDiv{
+    text-align: center;
+}
+/* height: 500px;
+    width: 50%;
+    margin-right: 5px;*/

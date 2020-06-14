@@ -1,0 +1,15 @@
+.user-data{
+    height: 500px;
+    width: 50%;
+    border: 1px solid #73AD21;
+    margin: auto;
+}
+
+#userForm{
+    text-align: center;
+    padding: 30% 0% 0% 5%;
+}
+
+.btnSubmit{
+    margin-top: 20px;
+}

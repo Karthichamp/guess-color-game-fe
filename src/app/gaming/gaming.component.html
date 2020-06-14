@@ -1,0 +1,15 @@
+<div class="container">
+    <h3>Round {{round}}</h3>
+    <div>Click any one colored button....</div>
+    <br>
+    <div class="row">
+        <div class="col-md-3" *ngFor='let btnName of btnList'>
+            <div class="btnDiv">
+                <button class="btnColor" [style.background-color]="btnName" (click)="gameBtnClick(btnName)"></button>
+            </div>
+        </div>
+    </div>
+    <div class="startNewGameDiv">
+        <a href="/">Start New Game</a>
+    </div>
+</div>

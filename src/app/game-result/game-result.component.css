@@ -1,0 +1,11 @@
+.game-result{
+    height: 500px;
+    width: 50%;
+    border: 1px solid #73AD21;
+    margin: auto;
+    padding: 8% 0% 0% 5%;
+}
+
+.startNewGameDiv{
+    text-align: center;
+}
